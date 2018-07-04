@@ -1,0 +1,1 @@
+<?php echo "<script>window.alert('select the template before you sign in')</script>"; ?>
